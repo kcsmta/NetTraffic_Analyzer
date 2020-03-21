@@ -39,10 +39,8 @@ All source code are available to run on Raspberry pi 3.
 ```sh
 # Create virtual enviroment
 python venv nettraffic-anlyzer-env
-
 # Active virtual enviroment
 source nettraffic-anlyzer-env/bin/activate
-
 # Install requirement packages
 pip install -r requirements.txt
 ```
