@@ -58,11 +58,13 @@ pip install -r requirements.txt
 ## Usage
 Update soon!
 * Network sniffer
+
 ```sh
     python 
 ```
 
 * Network traffic classification
+
 ```sh   
     python
 ```
@@ -70,7 +72,7 @@ Update soon!
 
 <!--CONTACT -->
 ## Contact
-My name is [Khanh Nguyen]()  \
+My name is [Khanh Nguyen](https://www.facebook.com/khanh.nguyen.98229)  \
 Email address: tungkhanh@lqdtu.edu.vn \
 Project Link: https://github.com/kcsmta/NetTraffic_Analyzer
 
