@@ -37,6 +37,14 @@ All source code are available to run on Raspberry pi 3.
 * Python 3.5+ is required.
 <h3>Ubuntu</h3>
 
+**1. Clone project**
+
+```sh
+git clone https://github.com/kcsmta/NetTraffic_Analyzer.git
+```
+
+**2. Run following command:**
+
 ```sh
 # Create virtual enviroment
 python venv nettraffic-anlyzer-env
