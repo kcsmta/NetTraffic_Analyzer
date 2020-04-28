@@ -34,7 +34,12 @@ All source code are available to run on Raspberry pi 3.
 
 <!-- INSTALLATION -->
 ## Installation
+**Important Note:**  This installation is for Linux only. For MacOS/ Windows, please take a look at the detailed instruction of each individual component.
 * Python 3.5+ is required.
+* Make sure you installed **tshark**. If you have not installed **tshark** yet. Run following command:
+```shell script
+sudo apt-get install tshark
+``` 
 <h3>Ubuntu</h3>
 
 **1. Clone project**
@@ -51,7 +56,7 @@ python venv nettraffic-anlyzer-env
 # Active virtual enviroment
 source nettraffic-anlyzer-env/bin/activate
 # Install requirement packages
-pip install -r requirements.txt
+(venv) pip install -r requirements.txt
 ```
 
 <!-- USAGE -->
